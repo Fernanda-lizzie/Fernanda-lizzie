@@ -1,9 +1,8 @@
 ## Oiii eu sou a Fernanda Farias, estudante de Dev Web Full Stack!
 "Pense apenas no passado se as suas lembranças lhe derem prazer." - Jane Austen
 
-<div><br>
- <img width="150" height="150"  alt="download20251005204336" src="https://github.com/user-attachments/assets/79b9373b-26ab-44b8-9582-b9f0e135d2be" />
-</div>
+<img src="https://github.com/user-attachments/assets/79b9373b-26ab-44b8-9582-b9f0e135d2be" align="right" width="300">
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -15,3 +14,7 @@
 <div><br>
   <a href = "fernandafariasdesousa14@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
+
+<div><br>
+ <img width="150" height="150"  alt="ab2c042da9153dec894b9bc73864d3ae26704fac_hq" src="https://github.com/user-attachments/assets/414836ef-e727-4ade-9b2e-776451fe9546" 
+</div> 
